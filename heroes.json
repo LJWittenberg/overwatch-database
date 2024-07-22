@@ -1,0 +1,10 @@
+{
+    "Tracer": {
+        "role": "Damage",
+        "tips": "Pl Hit your sticky"
+    },
+    "Winston": {
+        "role": "Tank",
+        "tips": "Pl Winton"
+    }
+}
