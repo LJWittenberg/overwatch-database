@@ -1,10 +1,67 @@
 {
     "Tracer": {
         "role": "Damage",
-        "tips": "Pl Hit your sticky"
+        "health": 175,
+        "abilities": ["Blink", "Recall"],
+        "ultimate": "Pulse Bomb",
+        "passive": "None",
+        "tips": {
+            "general": "Hit your sticky bomb and use Blink to dodge attacks.",
+            "advanced": "Manage your cooldowns effectively to stay mobile."
+        },
+        "playstyles": {
+            "aggressive": "Highly mobile and ideal for flanking and harassing the backline.",
+            "defensive": "Use Recall and Blink to evade and pressure the enemy safely."
+        }
     },
-    "Winston": {
+    "Sojourn": {
+        "role": "Damage",
+        "health": 250,
+        "abilities": {
+                        "Railgun": "",
+                        "Disruptor Shot": "", 
+                        "Power Slide": ""
+        },
+        "ultimate": "Overclock",
+        "passive": "None",
+        "tips": {
+            "general": "Use your Railgun's secondary fire for high-damage shots.",
+            "advanced": "Combine your Disruptor Shot with secondary fire for maximum damage."
+        },
+        "playstyles": {
+            "versatile": "Capable of engaging at range and up close with high DPS.",
+            "supportive": "Use Disruptor Shot to zone enemies and support your team."
+        }
+    },
+    "Cassidy": {
+        "role": "Damage",
+        "health": 275,
+        "abilities": ["Peacekeeper", "Combat Roll", "Flashbang"],
+        "ultimate": "Deadeye",
+        "passive": "None",
+        "tips": {
+            "general": "Use Combat Roll to quickly reload and avoid damage.",
+            "advanced": "Flashbang followed by primary fire can quickly eliminate foes."
+        },
+        "playstyles": {
+            "mid-range": "Duelist with burst potential and strong control at mid-range.",
+            "close-range": "Use Flashbang and Combat Roll to dominate close-range encounters."
+        }
+    },
+    "Mauga": {
         "role": "Tank",
-        "tips": "Pl Winton"
+        "health": 525,
+        "Armor" : 200,
+        "abilities": ["Heavy Cannon", "Shield Bash", "Fortify"],
+        "ultimate": "Raging Storm",
+        "passive": "None",
+        "tips": {
+            "general": "Placeholder",
+            "advanced": "Placeholder"
+        },
+        "playstyles": {
+            "Brawl": "Excels in absorbing damage and controlling space. by commiting to the tank duell",
+            "Dive/Brawl": "All in playstyle where the entire has to commit to the fight. Cardiac Overdrive is used to sustain your team during the team fight rather than a selfish healing tool. Mauga therefore fills a more supportive role."
+        }
     }
 }

@@ -6,9 +6,8 @@
 - [x] Implement basic script to load and display hero data
 
 ## Phase 2: Data Expansion
-- [ ] Add info and discalimer in Readme.md
+- [x] Add info and discalimer in Readme.md
 - [ ] Add more heroes and detailed tips
-- [ ] Implement search functionality by role
 - [ ] Verify and update hero tips for accuracy
 
 ## Phase 3: User Interface
